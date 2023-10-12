@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "Korea"
 title                    : "먹고 살기 위해 참고 한다 무리한 일정의 SI"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Robin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Korea"
+  email            : suersehii1@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
